@@ -32,4 +32,4 @@ var paroleLower = paroleUppercase.toLowerCase();
 
 // stampo le varie rischieste dell'esercizio
  elemento.innerHTML = paroleLower;
- elemento1.innerHTML = paroleCensurate + "  parole censurate su " + numeroParole + " totali. ";
+ elemento1.innerHTML = paroleCensurate + " parole censurate su " + numeroParole + " totali. ";
